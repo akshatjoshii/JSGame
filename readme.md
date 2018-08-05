@@ -2,4 +2,4 @@
 
 Simple shooting game created in vanilla Javascript using Canvas.
 
-[Demo](https://akshatjoshii.github.io/JSGame)
+[Demo](https://akshatjoshii.github.io/JSGame){:target="_blank"}
