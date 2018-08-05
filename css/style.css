@@ -29,8 +29,8 @@ canvas{
     right:0;
 }
 #canvasBg{
-    background-color: #ffffff;
-    background-image: url("../images/tv.png");
+    /*background-color: #ffffff;*/
+    /*background-image: url("../images/tv.png");*/
 }
 #overlapping canvas{
     display:block;
